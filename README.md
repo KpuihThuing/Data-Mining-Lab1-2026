@@ -1,11 +1,12 @@
 # Đồ án Tiền xử lý dữ liệu
 
 ## Giới thiệu
-Đồ án môn Khai thác dữ liệu (CSC14004).
+Đồ án môn Khai thác dữ liệu và ứng dụng.
 
 Nội dung gồm:
 - Tiền xử lý dữ liệu ảnh
 - Tiền xử lý dữ liệu bảng
+- Tiền xử lý dữ liệu text
 
 ## Cấu trúc thư mục
 - notebooks/: chứa code (Colab)
