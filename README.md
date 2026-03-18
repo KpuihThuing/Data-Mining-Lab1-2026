@@ -1,2 +1,20 @@
-# Data-Mining-Lab1-2026
-Đồ án này tập trung vào phân tích thống kê, thiết kế quy trình tiền xử lý và đánh giá tác động trên nhiều loại dữ liệu: hình ảnh, dữ liệu dạng bảng, dữ liệu văn bản và dữ liệu chuỗi thời gian.  Bao gồm phân tích dữ liệu khám phá (EDA), chuẩn hóa, kỹ thuật đặc trưng và đánh giá định lượng bằng cách sử dụng các mô hình học máy.
+# Đồ án Tiền xử lý dữ liệu
+
+## Giới thiệu
+Đồ án môn Khai thác dữ liệu (CSC14004).
+
+Nội dung gồm:
+- Tiền xử lý dữ liệu ảnh
+- Tiền xử lý dữ liệu bảng
+
+## Cấu trúc thư mục
+- notebooks/: chứa code (Colab)
+- data/: chứa link dataset
+- docs/: chứa báo cáo
+
+## Cách chạy
+1. Mở file bằng Google Colab
+2. Mount Google Drive:
+```python
+from google.colab import drive
+drive.mount('/content/drive')
